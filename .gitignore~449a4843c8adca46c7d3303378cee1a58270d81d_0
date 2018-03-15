@@ -1,0 +1,12 @@
+
+*.log
+*.backup
+Temp/UnityLockfile
+Temp/UnityTempFile-b3d578f43c8b2484abf08fc399d36aea
+*.txt
+Library/CrashedAssetImports.txt
+.vs/Geometry-Dash/v15/.suo
+.vs/Geometry-Dash/v15/Server/sqlite3/storage.ide
+.vs/Geometry-Dash/v15/Server/sqlite3/storage.ide-shm
+.vs/Geometry-Dash/v15/Server/sqlite3/storage.ide-wal
+Library/EditorInstance.json
